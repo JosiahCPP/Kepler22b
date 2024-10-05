@@ -1,3 +1,1 @@
-This file contains code to implement a live streaming server using a raspberry pi. To do this, run the streamingserver.py file on a raspberry pi.
-
-On another computer, run the test.py using your IP address for the url.
+This file contains code to implement a live streaming server using a raspberry pi. To do this, run the streamingserver.py file on a raspberry pi. On another computer, run the test.py using the IP address of the raspberry pi for the url. To find the IP address on the raspberry pi, type "hostname -I" into the terminal of the raspberry pi. 
